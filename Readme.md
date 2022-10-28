@@ -17,7 +17,7 @@
   ## Installation
   
   
-En Postmand utiliza este link: https://www.getpostman.com/collections/7bd2214919b78ae00955 para descargar las rutas.
+En Postman utiliza este link: https://www.getpostman.com/collections/7bd2214919b78ae00955 para descargar las rutas.
 
 Importa este environment para usar en local
 
@@ -62,7 +62,6 @@ Licensed under the MIT license.
   
   ## How to Contribute
   
-Añadir rutas
 
   
   ## Questions
