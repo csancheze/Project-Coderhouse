@@ -16,10 +16,15 @@
   
   ## Installation
   
+ Descarga el repositorio e inicia el servidor con el cmd 
+ ```
+ nodemon server.js
+ ```
+  
   
 En Postman utiliza este link: https://www.getpostman.com/collections/7bd2214919b78ae00955 para descargar las rutas.
 
-Importa este environment para usar en local
+Importa este environment a postman para usar en local
 
 
 
