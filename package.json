@@ -1,0 +1,16 @@
+{
+  "name": "desafio-4",
+  "version": "1.0.0",
+  "description": "servidor con express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "César Sánchez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
