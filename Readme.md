@@ -16,13 +16,14 @@
   
   ## Installation
   
+  
+En Postman utiliza este link: https://www.getpostman.com/collections/7bd2214919b78ae00955 para descargar las rutas.
+
+### Para uso en local
  Descarga el repositorio e inicia el servidor con el cmd 
  ```
  nodemon server.js
  ```
-  
-  
-En Postman utiliza este link: https://www.getpostman.com/collections/7bd2214919b78ae00955 para descargar las rutas.
 
 Importa este environment a postman para usar en local
 
@@ -45,7 +46,9 @@ Importa este environment a postman para usar en local
 	"_postman_exported_using": "Postman/9.31.21"
 }
   ```
-o importa este environment a postman para uso en linea
+
+###  Para uso en linea
+importa este environment a postman para uso en linea
 
 ```
 {
@@ -70,7 +73,7 @@ o importa este environment a postman para uso en linea
   
 Seguir instrucciones de instalación y probar los endpoints.
 
-Utiliza la ruta login para poder modificar los productos.
+Usa la ruta /login para poder usar las rutas que modifican productos.
 
   
   
