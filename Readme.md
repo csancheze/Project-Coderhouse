@@ -68,7 +68,9 @@ o importa este environment a postman para uso en linea
   ## Usage
   
   
-Seguir instrucciones de instalación y probar los endpoints
+Seguir instrucciones de instalación y probar los endpoints.
+
+Utiliza la ruta login para poder modificar los productos.
 
   
   
