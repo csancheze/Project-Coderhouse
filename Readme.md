@@ -40,7 +40,25 @@ Importa este environment para usar en local
 	"_postman_exported_using": "Postman/9.31.21"
 }
   ```
+o importa este environment a postman para uso en linea
 
+```
+{
+	"id": "91c99fb8-aed7-4a38-b27a-b5bd8cdbc71e",
+	"name": "Glitch",
+	"values": [
+		{
+			"key": "URL",
+			"value": "fluffy-deep-anglerfish.glitch.me",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-10-28T22:24:58.478Z",
+	"_postman_exported_using": "Postman/9.31.21"
+}
+```
   
   ## Usage
   
