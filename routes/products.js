@@ -24,6 +24,7 @@ products.get("/:id", async(request, response)=>{
 
 products.post("/",async(request,response)=>{
     const newProduct = request.body;
+    newProduct.timestamp = new Date(Date.now()).toLocaleString().replace(",", "")
     const productos = await fileManagement.agregarProducto(newProduct);
     response.status(200).json({
         message:"producto creado",
